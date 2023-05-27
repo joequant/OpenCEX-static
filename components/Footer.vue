@@ -4,7 +4,7 @@
       <div class="footer-content-wrapper">
         <div class="footer-copy">
           <div class="copyright">
-            2022 © {{ this.$config.axios.title }} Exchange Crypto Investment Platform
+            2022 © Twofish Enterprises (Asia) Limited
           </div>
           <div class="rights">All Rights Reserved</div>
           <div class="footer__socials-container">
